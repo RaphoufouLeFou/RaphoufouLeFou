@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**RaphoufouLeFou/RaphoufouLeFou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <h1 align="center">RaphoufouLeFou</h1>
+  <p align="center">I LOVE low level</p>
+  <p align="center">
+    <a href="https://RaphoufouLeFou.github.io"><img src="https://img.shields.io/badge/Pages_Profile-blue"></a>
+    <a href="https://stackoverflow.com/u/13633424"><img src="https://img.shields.io/badge/Stack_Overflow_Profile-orange"></a>
+    <img src="https://komarev.com/ghpvc/?username=RaphoufouLeFou&color=grey">
+  </p>
+</p>
+<br>
+<p align="center">
+  <a href="https://github.com/RaphoufouLeFou" height=200><img width="49%" src="https://github-readme-stats.vercel.app/api/?username=RaphoufouLeFou&theme=dark&bg_color=10151c"></a>
+  <a href="https://github.com/RaphoufouLeFou" height=200><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphoufouLeFou&theme=dark&hide=html,css,batchfile&layout=compact&bg_color=10151c&hide_title=true"></a>
+</p>
