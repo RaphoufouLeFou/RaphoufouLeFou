@@ -36,6 +36,7 @@
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer%2C_Logo.svg">
   <img height="70px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
   <img height="70px" src="https://pbs.twimg.com/profile_images/773245254979903488/yB0xE3NR_400x400.jpg">
+  <img height="70px" src="https://pbs.twimg.com/profile_images/1202369280165023746/8ANTs9n1_400x400.jpg">
 </span>
 
 <h2>Other tools</h2>
