@@ -50,4 +50,5 @@
   <img height="70px" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png">
   <img height="70px" src="https://i.pinimg.com/originals/4e/51/e6/4e51e673a4cab52660512041d00e9186.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png">
+  <img height="70px" src="https://wiki.stmicroelectronics.cn/stm32mpu/nsfr_img_auth.php/2/2f/STM32_logo.png">
 </span>
