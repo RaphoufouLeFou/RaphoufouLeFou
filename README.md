@@ -37,6 +37,7 @@
   <img height="70px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
   <img height="70px" src="https://pbs.twimg.com/profile_images/773245254979903488/yB0xE3NR_400x400.jpg">
   <img height="70px" src="https://pbs.twimg.com/profile_images/1202369280165023746/8ANTs9n1_400x400.jpg">
+  <img height="70px" src="https://wiki.stmicroelectronics.cn/stm32mpu/nsfr_img_auth.php/2/2f/STM32_logo.png">
 </span>
 
 <h2>Other tools</h2>
@@ -50,5 +51,4 @@
   <img height="70px" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png">
   <img height="70px" src="https://i.pinimg.com/originals/4e/51/e6/4e51e673a4cab52660512041d00e9186.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png">
-  <img height="70px" src="https://wiki.stmicroelectronics.cn/stm32mpu/nsfr_img_auth.php/2/2f/STM32_logo.png">
 </span>
