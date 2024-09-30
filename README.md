@@ -23,6 +23,8 @@
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png">
   <img height="70px" src="https://static-00.iconduck.com/assets.00/assembly-icon-2048x2048-wspx42mf.png">
   <img height="70px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png">
+  <img height="70px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  
   <img height="70px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
   <img height="70px" src="https://marketplacedesignoye.s3.ap-south-1.amazonaws.com/css-programming-language-icon-symbol-logo-vector-_628.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
@@ -49,6 +51,7 @@
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png">
   <img height="70px" src="https://i.gyazo.com/85e7ce9196ae635161fec921602903a7.png">
   <img height="70px" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png">
+  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png">
   <img height="70px" src="https://i.pinimg.com/originals/4e/51/e6/4e51e673a4cab52660512041d00e9186.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png">
 </span>
