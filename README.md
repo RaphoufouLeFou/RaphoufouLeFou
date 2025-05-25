@@ -12,7 +12,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/RaphoufouLeFou" height=200><img width="49%" src="https://github-readme-stats.vercel.app/api/?username=RaphoufouLeFou&theme=dark&bg_color=10151c"></a>
-  <a href="https://github.com/RaphoufouLeFou" height=200><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphoufouLeFou&theme=dark&hide=html,css,batchfile&layout=compact&bg_color=10151c&hide_title=true"></a>
+  <a href="https://github.com/RaphoufouLeFou" height=200><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphoufouLeFou&theme=dark&hide=cs,html,css,batchfile&layout=compact&bg_color=10151c&hide_title=true"></a>
 </p>
 
 
