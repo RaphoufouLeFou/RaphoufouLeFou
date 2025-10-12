@@ -39,7 +39,6 @@
   <img height="70px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
   <img height="70px" src="https://pbs.twimg.com/profile_images/773245254979903488/yB0xE3NR_400x400.jpg">
   <img height="70px" src="https://pbs.twimg.com/profile_images/1202369280165023746/8ANTs9n1_400x400.jpg">
-  <img height="70px" src="https://wiki.stmicroelectronics.cn/stm32mpu/nsfr_img_auth.php/2/2f/STM32_logo.png">
 </span>
 
 <h2>Other tools</h2>
