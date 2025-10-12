@@ -21,7 +21,7 @@
   <img height="70px" src="https://5.imimg.com/data5/SELLER/Default/2023/12/372208517/IZ/UT/AI/64185218/c-course-250x250.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png">
-  <img height="70px" src="https://static-00.iconduck.com/assets.00/assembly-icon-2048x2048-wspx42mf.png">
+  <img height="70px" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png">
   <img height="70px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png">
   <img height="70px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   
